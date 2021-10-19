@@ -2,3 +2,7 @@ Hey friends,
 I am Dilsha Dileep
 I am coming from thalassery
 I have complete my post graduation in MCA
+
+Git is a version control system
+Git hub is a server
+
